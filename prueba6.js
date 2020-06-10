@@ -1,0 +1,1 @@
+let prueba6= ["hola", "soy", "prueba","6"]
