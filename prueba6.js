@@ -1,1 +1,1 @@
-let prueba6= ["hola", "soy", "prueba","6"]
+let prueba6= ["hola", "soy", "prueba","6", "test", "asd", "lista"]
