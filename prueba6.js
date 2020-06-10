@@ -1,1 +1,1 @@
-let prueba6= ["hola", "soy", "prueba","6", "test", "asd", "lista"]
+let prueba6= ["hola", "soy", "prueba","6", "test", "asd", "lista","testeo","bash","local"]
