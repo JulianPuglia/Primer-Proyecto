@@ -3,3 +3,5 @@ function prueba(texto){
 }
 
 console.log(prueba());
+
+let pruebaMatematica = 1 + 2
