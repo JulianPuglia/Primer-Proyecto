@@ -5,3 +5,5 @@ function saludos() {
 }
 
 console.log(saludos());
+
+let nombre = "Pio"
