@@ -1,5 +1,7 @@
+var nombre = "lautaro";
+
 function saludos() {
-    return 'Hola';
+    return 'Hola' + nombre;
 }
 
 console.log(saludos());
