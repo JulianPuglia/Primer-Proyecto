@@ -1,5 +1,5 @@
-function suma(n1, n2) {
-    return n1 + n2;
+function mult(n1, n2) {
+    return n1 * n2;
 }
 
-console.log(suma(5,5));
+console.log(mult(5,5));

@@ -1,4 +1,5 @@
 let curso = {
     horario: "9-11",
-    profesor: "Eric"
+    profesor: ["Eric", "Pio"],
+    curso: "Fullstack"
 }
